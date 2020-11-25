@@ -18,3 +18,5 @@ Cudnn >= 7.0 （optional）
 
 required library darknet
 
+To Run you need to include folder cfg, config, data and model beside this folder.
+those yolo weight can be copied for example from the darknet folder
