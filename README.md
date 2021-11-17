@@ -2,6 +2,8 @@
 
 Adapted from https://github.com/scutlrr/Yolov4-QtGUI
 
+https://github.com/pjreddie/darknet
+
 Development software environment
 
 Windows 10 --> Ubuntu 20.04
