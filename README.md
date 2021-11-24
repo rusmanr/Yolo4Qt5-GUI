@@ -2,6 +2,7 @@
 
 Adapted from https://github.com/scutlrr/Yolov4-QtGUI
 
+https://github.com/AlexeyAB/darknet.git
 https://github.com/pjreddie/darknet
 
 Development software environment
