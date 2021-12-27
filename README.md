@@ -6,6 +6,10 @@ https://github.com/AlexeyAB/darknet.git
 
 https://github.com/pjreddie/darknet
 
+to Build on window , please follow this
+
+https://github.com/TerenceSperringerJr/darknet-mingw-w64/wiki/How-to-build
+
 Development software environment
 
 Windows 10 --> Ubuntu 20.04
